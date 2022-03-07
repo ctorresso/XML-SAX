@@ -170,7 +170,6 @@ public class E2 extends DefaultHandler {
                 contProm.put(this.model,cont+1);
             }
 
-
             inSales = false;
         }
     }
